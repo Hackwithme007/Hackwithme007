@@ -1,7 +1,14 @@
-### Hi there 👋
+# ✨ About Me
+An ethical hacker works solo and alone for myself. I do everything ethically and All the things that I can do are non-harmful to anyone.
+
+## ⚡ Specifications:
+- Used Kali | Parrot Security | BlackArch
+- Knew all Linux commands
+- Also a developer
+- Code expert
 
 <!--
-**Hackwithme007/Hackwithme007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hackwithme007/Hackwithme007** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
